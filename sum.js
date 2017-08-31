@@ -1,5 +1,5 @@
 var a = 1;
-var b = 5;
-var c = 3;
+var b = 2;
+var c = a + b;
 
-return a + b - c;
+return c;
